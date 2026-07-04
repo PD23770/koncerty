@@ -33,3 +33,5 @@ Notebook zawiera:
 6. Mapę koncertów w polskich miastach.
 7. Kompozycję czterech wykresów w układzie 2 × 2.
 8. Wnioski z analizy rynku koncertowego.
+
+PD
